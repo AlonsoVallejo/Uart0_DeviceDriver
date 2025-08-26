@@ -42,7 +42,7 @@ Steps to Test:
    - Restart your Raspberry Pi to apply changes.
 
 6.- **Open a Serial Terminal**
-   - Open a serial terminal in you computer and connect it to the Raspberry Pi's serial port. You can use any usb to serial cable
+   - Open a serial port terminal and connect it to the Raspberry Pi's using usb to serial cable.
 
 7.- **Load the Kernel Module**
    - Insert the kernel module (`ldd_uart.ko`) into the Linux kernel:
